@@ -2,11 +2,11 @@
 
 **Software Engineer | Machine Learning Systems**
 
-I am a software engineer with a five-year Integrated Master's degree in Electronics and
-Computer Engineering from the University of Thessaly. I build reliable Python software
-and applied machine-learning systems, with project experience in automated testing,
-SQLite-backed applications, natural language processing, model optimization, and
-multi-agent reinforcement learning.
+Software engineer and five-year Integrated Master's graduate in Electronics and Computer
+Engineering from the University of Thessaly. I develop reliable Python applications and
+applied machine-learning systems, combining disciplined software engineering with
+research experience in NLP, model optimization, and multi-agent reinforcement learning.
+First author of an IEEE publication on language models for disinformation detection.
 
 ## Featured projects
 
