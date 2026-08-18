@@ -3,8 +3,8 @@
 **Software Engineer | Machine Learning Systems**
 
 Software engineer and five-year Integrated Master's graduate in Electronics and Computer
-Engineering from the University of Thessaly. I develop reliable Python applications and
-applied machine-learning systems, combining disciplined software engineering with
+Engineering from the University of Thessaly. Focused on building reliable Python applications
+and applied machine-learning systems that combine disciplined software engineering with
 research experience in NLP, model optimization, and multi-agent reinforcement learning.
 First author of an IEEE publication on language models for disinformation detection.
 
