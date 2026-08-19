@@ -2,7 +2,7 @@
 
 **Software Engineer | Machine Learning Systems**
 
-Software engineer and five-year Integrated Master's graduate in Electronics and Computer
+Software engineer and five-year Integrated Master's graduate in Electrical Computer
 Engineering from the University of Thessaly. Focused on building reliable Python applications
 and applied machine-learning systems that combine disciplined software engineering with
 research experience in NLP, model optimization, and multi-agent reinforcement learning.
