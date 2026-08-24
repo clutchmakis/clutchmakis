@@ -30,10 +30,10 @@ subcategory validation accuracy with DistilBERT.
 
 ## Research
 
-First author of the 2026 IEEE conference publication
-["Language Models for Disinformation Detection: To Be Large or to Be Small?"](https://ieeexplore.ieee.org/document/11315272),
-which compares large and small language models for disinformation detection using
-fine-tuning, parameter-efficient adaptation, and model-pruning methods.
+First author of the 2025 IEEE conference paper
+["Language Models for Disinformation Detection: To Be Large or to Be Small?"](https://doi.org/10.1109/AICCSA66935.2025.11315272).
+The [accompanying repository](https://github.com/clutchmakis/fake-news-detection) contains the
+XLM-RoBERTa pruning workflow and the related Llama experiments.
 
 ## Technical focus
 
